@@ -324,12 +324,12 @@ body{
     .services .container{
         justify-content: center;
         margin-top: 20px;
-        max-height:920px;
+        max-height:750px;
     }
     .services .container .serviceBx{
-      margin: 20px;    
-      width:300px;
-      height:350px;
+      margin-top: 20px;    
+      width:300px; 
+      height:300px;
     }
     .technology{
         padding-top: 200px;
